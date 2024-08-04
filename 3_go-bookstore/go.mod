@@ -1,4 +1,4 @@
-module github.com/Fi44er/go-projects/tree/main/3_go-bookstore
+module root
 
 go 1.22.4
 
